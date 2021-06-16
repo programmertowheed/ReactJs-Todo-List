@@ -1,14 +1,19 @@
 {
   "name": "todolist",
   "version": "0.1.0",
+  "homepage": "http://project.programmertowheed.com/todo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.6.3",
+    "bootstrap": "^4.6.0",
+    "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
+    "reactstrap": "^8.9.0",
+    "shortid": "^2.2.16",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
